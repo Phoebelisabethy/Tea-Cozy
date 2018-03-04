@@ -1,0 +1,24 @@
+/* Universal Styles */
+body {
+  background-color: black;
+  font-family: helvetica;
+  font-size: 22px;
+  color: seashell;
+  opacity: 0.9px;
+  text-align: center;
+
+}
+header {
+  height:69px;
+  background-color: black;
+  border-bottom: 1px solid seashell;
+  display: flex;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+.logo {
+  height: 50px;
+  padding: 9.5px 10px;
+  float: left;
+}
